@@ -1,4 +1,4 @@
-# Strogonoff de Frango
+# Strogonoff de Frango :chicken:
 
 ### Ingredientes
 
@@ -16,9 +16,9 @@
 
 ### Modo de Preparo
 
-1- Em uma frigideira grande, derreta três colheres (sopa) da manteiga e doure o frango, aos poucos, em fogo alto.
+1- Em uma frigideira grande, derreta três colheres (sopa) da manteiga e doure o- frango, aos poucos, em fogo alto.
 
-2- Retire a carne e coloque a manteiga restante.
+2 Retire a carne e coloque a manteiga restante.
 
 3- Doure a cebola, junte o frango, tempere com o sal e a pimenta. Despeje o conhaque, espere aquecer e incline levemente a frigideira para flambar o conhaque. Aguarde acabar a chama.
 
