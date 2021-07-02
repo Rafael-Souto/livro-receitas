@@ -1,8 +1,10 @@
 # livro-receitas
-Livro de Receitas
 
-Olá, bem vindo ao meu livro de receitas
+## Livro de Receitas :chicken:
 
-1° Stogonoff de Frango
+### Olá, bem vindo ao meu livro de receitas :wave:
 
-2° Pavê
+- Stogonoff de Frango
+
+* Pavê
+* Bolo de Cenoura
