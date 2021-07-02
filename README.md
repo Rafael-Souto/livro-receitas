@@ -4,7 +4,6 @@
 
 ### Olá, bem vindo ao meu livro de receitas :wave:
 
-- Stogonoff de Frango
-
+* Stogonoff de Frango
 * Pavê
 * Bolo de Cenoura
