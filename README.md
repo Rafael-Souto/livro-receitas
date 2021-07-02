@@ -3,5 +3,6 @@ Livro de Receitas
 
 Olá, bem vindo ao meu livro de receitas
 
-Stogonoff de Frango
-Pavê
+1° Stogonoff de Frango
+
+2° Pavê
